@@ -1,0 +1,13 @@
+# images folder
+data/images/*
+
+# dataset contents (automatically populated)
+data/dataset/*
+
+# batches folder
+data/batches/*
+
+# field data folder
+data/field/*
+
+*.zip
