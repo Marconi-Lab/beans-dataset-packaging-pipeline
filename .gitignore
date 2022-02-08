@@ -11,3 +11,4 @@ data/batches/*
 data/field/*
 
 *.zip
+*.json
